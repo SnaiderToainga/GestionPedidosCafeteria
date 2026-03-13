@@ -25,16 +25,16 @@ int totalPedidos = 10;
 // Función que carga los 10 registros iniciales
 void inicializarPedidos() {
 
-    pedidos[0] = {1,"Juan","Cafe",2,1.50};
-    pedidos[1] = {2,"Ana","Capuccino",1,2.00};
+    pedidos[0] = {1,"Angel","Cafe",2,1.50};
+    pedidos[1] = {2,"Alejandra","Capuccino",1,2.00};
     pedidos[2] = {3,"Luis","Te",3,1.20};
-    pedidos[3] = {4,"Pedro","Latte",2,2.50};
+    pedidos[3] = {4,"Alejandro","Latte",2,2.50};
     pedidos[4] = {5,"Sofia","Cafe",1,1.50};
-    pedidos[5] = {6,"Maria","Te",2,1.20};
+    pedidos[5] = {6,"Martha","Te",2,1.20};
     pedidos[6] = {7,"Carlos","Capuccino",1,2.00};
-    pedidos[7] = {8,"Lucia","Latte",3,2.50};
-    pedidos[8] = {9,"David","Cafe",2,1.50};
-    pedidos[9] = {10,"Elena","Te",1,1.20};
+    pedidos[7] = {8,"Miriam","Latte",3,2.50};
+    pedidos[8] = {9,"Anahi","Cafe",2,1.50};
+    pedidos[9] = {10,"Milena","Te",1,1.20};
 
 }
 
